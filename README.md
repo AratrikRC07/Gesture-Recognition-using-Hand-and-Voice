@@ -7,7 +7,7 @@ Gesture Controlled Virtual Mouse makes human computer interaction simple by maki
  _Video Demonstration: [link](https://www.youtube.com/watch?v=ufm6tfgo-OA&ab_channel=Proton)_<br>
 Note: Use Python version: 3.8.5
 
-# Features
+# Features:
  _click on dropdown to know more_ <br>
 
 ### Gesture Recognition:
@@ -194,14 +194,14 @@ Note: Use Python version: 3.8.5
   </ul>
 </details>
 
-# Getting Started
+# Getting Started:
 
-  ### Pre-requisites
+  ### Pre-requisites:
   
   Python: (3.6 - 3.8.5)<br>
   Anaconda Distribution: To download click [here](https://www.anaconda.com/products/individual).
   
-  ### Procedure
+  ### Procedure:
   ```bash
   git clone https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse.git
   ```
